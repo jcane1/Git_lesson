@@ -1,5 +1,5 @@
 **test page**
-~~ words ~~
+~~words~~
 - one
 - two
 - three
